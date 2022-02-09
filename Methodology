@@ -1,0 +1,3 @@
+Using K-Means, GMM, Louvain, Hierarchical clustering methods to find out the best clustering method for model selection of cancer tissue patches
+Testing of 4 different representations of tissue patches: PathologyGAN (5000 vectors of 200 dimension), ResNet50 (5000 vectors of 2048 dimension), InceptionV3 (5000 vectors of 2048 dimension), VGG16 (5000 vectors of 4096 dimension)
+Two dimensionality reduction methods used for each set: PCA and UMAP (vector size 100)
