@@ -1,7 +1,7 @@
-# Machine-Learning-Clustering
+# Machine-Learning-Clustering ALgorithm
 #Clustering is a task of grouping data points in a way that objects in the same cluster are similar to each other.
-#The best clustering model will best describe structure of data. 
-#Clustering Models: K Means, Gaussian Mixture Model, Hierarchical Clustering, Louvain Clustering
+The best clustering model will best describe structure of data. 
+Clustering Models: K Means, Gaussian Mixture Model, Hierarchical Clustering, Louvain Clustering
 
 Dataset: 
 5000 colorectal cancer tissue patches
