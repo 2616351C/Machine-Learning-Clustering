@@ -1,0 +1,17 @@
+The objective of this case study is to test different clustering
+algorithms on 4 different representations extracted from colorectal
+tissue patches by reporting the cluster qualities according to both intrinsic
+and extrinsic measures
+
+
+
+
+
+In your report, you are expected to present…
+• Introduction to tasks/backgrounds/data
+• Methodology:
+Theory and Intuition behinds each algorithm and representation
+• Experimental framework:
+Parameter searching and evaluation
+• Result discussion
+• Conclusion
