@@ -3,6 +3,10 @@
 The best clustering model will best describe structure of data. 
 Clustering Models: K Means, Gaussian Mixture Model, Hierarchical Clustering, Louvain Clustering
 
+Tissue biopsy is obtained from microscope with high resolution. It results in 498 megabytes per slide in average.
+
+So, it’s necessary to break WSIs into smaller patches to be able to analyse across many patients
+
 Dataset: 
 5000 colorectal cancer tissue patches
 it consists of 9 tissue types including
